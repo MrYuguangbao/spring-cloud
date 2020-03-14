@@ -1,0 +1,1262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ecc75f4b-05b8-4057-ab3d-af44b738d282" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/../SpringLearn/src/main/java/algorithm/offer/DelListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringLearn/src/main/java/algorithm/offer/FibiNa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringLearn/src/main/java/algorithm/offer/Offer5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringLearn/src/main/java/algorithm/offer/OrderSolution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringLearn/src/main/java/algorithm/offer/PrintNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringLearn/src/main/java/algorithm/offer/StackAndQueueTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringLearn/src/main/java/algorithm/offer/sanjiaoxing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringLearn/.idea/web/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringLearn/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringLearn/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringLearn/src/main/java/algorithm/zifuchuan/Palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringLearn/src/main/java/algorithm/zifuchuan/Palindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringLearn/src/main/java/com/springtest/aop/aop1/Interceptor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringLearn/src/main/java/com/springtest/aop/aop1/Interceptor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringLearn/src/main/java/com/springtest/aop/aop1/MyProxyMainTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringLearn/src/main/java/com/springtest/aop/aop1/MyProxyMainTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringLearn/src/main/java/com/springtest/aop/aop1/RoleService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringLearn/src/main/java/com/springtest/aop/aop1/RoleService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringLearn/src/main/java/com/springtest/aop/aop1/RoleServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringLearn/src/main/java/com/springtest/aop/aop1/RoleServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringLearn/src/main/java/com/springtest/aop/aop2/AOPConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringLearn/src/main/java/com/springtest/aop/aop2/AOPConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringLearn/src/main/java/com/springtest/aop/aop2/AOP实现类.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringLearn/src/main/java/com/springtest/aop/aop2/AOP实现类.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringLearn/src/main/java/com/springtest/aop/aop2/AOP接口.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringLearn/src/main/java/com/springtest/aop/aop2/AOP接口.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringLearn/src/main/java/com/springtest/aop/aop2/AOP验证器实现类.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringLearn/src/main/java/com/springtest/aop/aop2/AOP验证器实现类.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringLearn/src/main/java/com/springtest/aop/aop2/AopMain函数.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringLearn/src/main/java/com/springtest/aop/aop2/AopMain函数.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringLearn/src/main/java/com/springtest/aop/aop2/User切面.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringLearn/src/main/java/com/springtest/aop/aop2/User切面.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringLearn/src/main/java/com/springtest/aop/aop2/User切面_Pointcut注解.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringLearn/src/main/java/com/springtest/aop/aop2/User切面_Pointcut注解.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringLearn/src/main/java/com/springtest/mybatis/MybatisTest1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringLearn/src/main/java/com/springtest/mybatis/MybatisTest1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringLearn/src/main/java/com/springtest/mybatis/mapper/UserMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringLearn/src/main/java/com/springtest/mybatis/mapper/UserMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringLearn/src/main/java/com/springtest/mybatis/model/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringLearn/src/main/java/com/springtest/mybatis/model/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringLearn/src/main/java/com/springtest/proxy/JdkProxyExam.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringLearn/src/main/java/com/springtest/proxy/JdkProxyExam.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringLearn/src/main/java/com/springtest/proxy/cglib/CglibProxyMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringLearn/src/main/java/com/springtest/proxy/cglib/CglibProxyMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringLearn/src/main/java/com/springtest/proxy/interceptor/JdkProxyInterceptor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringLearn/src/main/java/com/springtest/proxy/interceptor/JdkProxyInterceptor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringLearn/src/main/java/com/springtest/proxy/interceptor/MainTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringLearn/src/main/java/com/springtest/proxy/interceptor/MainTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringLearn/src/main/java/util/MyDateTimeUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringLearn/src/main/java/util/MyDateTimeUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringLearn/src/main/resources/META-INF/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringLearn/src/main/resources/META-INF/applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringLearn/src/main/resources/META-INF/mybatis-config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringLearn/src/main/resources/META-INF/mybatis-config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringLearn/src/main/resources/META-INF/spring-data.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringLearn/src/main/resources/META-INF/spring-data.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringLearn/src/main/resources/jdbc.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringLearn/src/main/resources/jdbc.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringLearn/src/main/resources/log4j.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringLearn/src/main/resources/log4j.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringLearn/src/main/resources/spring-profile-data.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringLearn/src/main/resources/spring-profile-data.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringLearn/target/classes/META-INF/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringLearn/target/classes/META-INF/applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringLearn/target/classes/META-INF/mybatis-config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringLearn/target/classes/META-INF/mybatis-config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringLearn/target/classes/META-INF/spring-data.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringLearn/target/classes/META-INF/spring-data.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringLearn/target/classes/algorithm/zifuchuan/Palindrome.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringLearn/target/classes/algorithm/zifuchuan/Palindrome.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringLearn/target/classes/com/springtest/aop/aop1/MyProxyMainTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringLearn/target/classes/com/springtest/aop/aop1/MyProxyMainTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringLearn/target/classes/com/springtest/aop/aop1/RoleService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringLearn/target/classes/com/springtest/aop/aop1/RoleService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringLearn/target/classes/com/springtest/aop/aop1/RoleServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringLearn/target/classes/com/springtest/aop/aop1/RoleServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringLearn/target/classes/com/springtest/aop/aop2/AOPConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringLearn/target/classes/com/springtest/aop/aop2/AOPConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringLearn/target/classes/com/springtest/aop/aop2/AOP实现类.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringLearn/target/classes/com/springtest/aop/aop2/AOP实现类.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringLearn/target/classes/com/springtest/aop/aop2/AOP接口.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringLearn/target/classes/com/springtest/aop/aop2/AOP接口.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringLearn/target/classes/com/springtest/aop/aop2/AOP验证器实现类.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringLearn/target/classes/com/springtest/aop/aop2/AOP验证器实现类.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringLearn/target/classes/com/springtest/aop/aop2/AopMain函数.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringLearn/target/classes/com/springtest/aop/aop2/AopMain函数.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringLearn/target/classes/com/springtest/aop/aop2/User切面.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringLearn/target/classes/com/springtest/aop/aop2/User切面.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringLearn/target/classes/com/springtest/aop/aop2/User切面_Pointcut注解.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringLearn/target/classes/com/springtest/aop/aop2/User切面_Pointcut注解.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringLearn/target/classes/com/springtest/mybatis/MybatisTest1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringLearn/target/classes/com/springtest/mybatis/MybatisTest1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringLearn/target/classes/com/springtest/mybatis/mapper/UserMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringLearn/target/classes/com/springtest/mybatis/mapper/UserMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringLearn/target/classes/com/springtest/mybatis/model/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringLearn/target/classes/com/springtest/mybatis/model/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringLearn/target/classes/com/springtest/proxy/JdkProxyExam.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringLearn/target/classes/com/springtest/proxy/JdkProxyExam.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringLearn/target/classes/com/springtest/proxy/cglib/CglibProxyMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringLearn/target/classes/com/springtest/proxy/cglib/CglibProxyMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringLearn/target/classes/com/springtest/proxy/interceptor/JdkProxyInterceptor.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringLearn/target/classes/com/springtest/proxy/interceptor/JdkProxyInterceptor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringLearn/target/classes/com/springtest/proxy/interceptor/MainTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringLearn/target/classes/com/springtest/proxy/interceptor/MainTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringLearn/target/classes/jdbc.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringLearn/target/classes/jdbc.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringLearn/target/classes/log4j.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringLearn/target/classes/log4j.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringLearn/target/classes/spring-profile-data.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringLearn/target/classes/spring-profile-data.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringLearn/target/classes/util/MyDateTimeUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringLearn/target/classes/util/MyDateTimeUtils.class" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/../feign-consumer/target/" />
+    <ignored path="$PROJECT_DIR$/../hello/target/" />
+    <ignored path="$PROJECT_DIR$/../eureka-server/target/" />
+    <ignored path="$PROJECT_DIR$/../api-gateway/target/" />
+    <ignored path="$PROJECT_DIR$/../SpringLearn/target/" />
+    <ignored path="$PROJECT_DIR$/../FileSystem/target/" />
+    <ignored path="$PROJECT_DIR$/../hystrix-dashboard/target/" />
+    <ignored path="$PROJECT_DIR$/../turbine/target/" />
+    <ignored path="$PROJECT_DIR$/../ribbon-consumer/target/" />
+    <ignored path="$PROJECT_DIR$/../config-server/target/" />
+    <ignored path="$PROJECT_DIR$/../api-gateway-dynamic-route/target/" />
+    <ignored path="$PROJECT_DIR$/../SpringCloud/target/" />
+    <ignored path="$PROJECT_DIR$/../SpringCloud/api-gateway/target/" />
+    <ignored path="$PROJECT_DIR$/../SpringCloud/eureka-server/target/" />
+    <ignored path="$PROJECT_DIR$/../SpringCloud/feign-consumer/target/" />
+    <ignored path="$PROJECT_DIR$/../SpringCloud/hello/target/" />
+    <ignored path="$PROJECT_DIR$/../SpringCloud/hystrix-dashboard/target/" />
+    <ignored path="$PROJECT_DIR$/../SpringCloud/helloserviceapi/target/" />
+    <ignored path="$PROJECT_DIR$/../SpringCloud/ribbon-consumer/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="helloserviceapi" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../SpringCloud/api-gateway/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="740">
+              <caret line="30" selection-start-line="30" selection-end-line="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../SpringCloud/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../SpringCloud/ribbon-consumer/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="175">
+              <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit4 Test Class" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>register</find>
+      <find>register(</find>
+      <find>eurekaServer</find>
+      <find>prefer</find>
+      <find>instanceId</find>
+      <find>ConnectTime</find>
+      <find>MaxAutoRe</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../SpringLearn" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/../hystrix-dashboard/pom.xml" />
+        <option value="$PROJECT_DIR$/../SpringLearn/src/main/java/algorithm/offer/PrintNumbers.java" />
+        <option value="$PROJECT_DIR$/../SpringLearn/src/main/java/algorithm/offer/StackAndQueueTest.java" />
+        <option value="$PROJECT_DIR$/../SpringLearn/src/main/java/algorithm/offer/DelListNode.java" />
+        <option value="$PROJECT_DIR$/../SpringLearn/src/main/java/algorithm/offer/OrderSolution.java" />
+        <option value="$PROJECT_DIR$/../hello/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/../turbine/src/main/java/com/example/turbine/controller/TestRestTemplate.java" />
+        <option value="$PROJECT_DIR$/../hello/src/main/java/com/example/hello/HelloApplication.java" />
+        <option value="$PROJECT_DIR$/../hystrix-dashboard/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/../hystrix-dashboard/src/main/java/com/example/hystrixdashboard/HystrixDashboardApplication.java" />
+        <option value="$PROJECT_DIR$/../hello/src/main/java/com/example/hello/poi/POIController.java" />
+        <option value="$PROJECT_DIR$/../hello/src/main/java/com/example/hello/poi/controller/POIController.java" />
+        <option value="$PROJECT_DIR$/../FileSystem/src/main/java/com/example/demo/utils/SigarUtils.java" />
+        <option value="$PROJECT_DIR$/../FileSystem/pom.xml" />
+        <option value="$PROJECT_DIR$/../FileSystem/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/../FileSystem/src/main/java/com/example/demo/springboot/poi/service/POIService.java" />
+        <option value="$PROJECT_DIR$/../FileSystem/src/main/java/com/example/demo/springboot/poi/service/POIServiceImpl.java" />
+        <option value="$PROJECT_DIR$/../FileSystem/src/main/java/com/example/demo/springboot/poi/controller/POIController.java" />
+        <option value="$PROJECT_DIR$/../FileSystem/src/main/java/com/example/demo/utils/MyDateTimeUtils.java" />
+        <option value="$PROJECT_DIR$/../FileSystem/src/main/java/com/example/demo/springboot/model/Car.java" />
+        <option value="$PROJECT_DIR$/../FileSystem/src/main/java/com/example/demo/springboot/controller/LoginController.java" />
+        <option value="$PROJECT_DIR$/../FileSystem/src/main/resources/templates/tables-data.html" />
+        <option value="$PROJECT_DIR$/../eureka-server/src/main/java/com/example/eurekaserver/EurekaServerApplication.java" />
+        <option value="$PROJECT_DIR$/../turbine/src/main/java/com/example/turbine/TurbineApplication.java" />
+        <option value="$PROJECT_DIR$/../hello/pom.xml" />
+        <option value="$PROJECT_DIR$/../hello/src/main/java/com/example/hello/controller/ReflectHelloController.java" />
+        <option value="$PROJECT_DIR$/../feign-consumer/src/main/java/com/example/feignconsumer/controller/FeignConsumerController.java" />
+        <option value="$PROJECT_DIR$/../feign-consumer/src/main/java/com/example/feignconsumer/config/DisableHystrixConfiguration.java" />
+        <option value="$PROJECT_DIR$/../feign-consumer/src/main/java/com/example/feignconsumer/feign/HelloService.java" />
+        <option value="$PROJECT_DIR$/../feign-consumer/src/main/java/com/example/feignconsumer/feign/impl/HelloServiceFallback.java" />
+        <option value="$PROJECT_DIR$/../feign-consumer/src/main/java/com/example/feignconsumer/service/impl/HelloServiceFallback.java" />
+        <option value="$PROJECT_DIR$/../feign-consumer/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/../feign-consumer/src/main/java/com/example/feignconsumer/config/FullLogConfiguration.java" />
+        <option value="$PROJECT_DIR$/../api-gateway/src/main/java/com/example/apigateway/facade/System2.java" />
+        <option value="$PROJECT_DIR$/../api-gateway/src/main/java/com/example/apigateway/facade/System1.java" />
+        <option value="$PROJECT_DIR$/../api-gateway/src/main/java/com/example/apigateway/facade/System3.java" />
+        <option value="$PROJECT_DIR$/../api-gateway/src/main/java/com/example/apigateway/facade/Customer.java" />
+        <option value="$PROJECT_DIR$/../api-gateway/src/main/java/com/example/apigateway/facade/Facade.java" />
+        <option value="$PROJECT_DIR$/../api-gateway/src/main/java/com/example/apigateway/facade/MainTest.java" />
+        <option value="$PROJECT_DIR$/../hello/src/main/java/com/example/hello/util/MyDateTimeUtils.java" />
+        <option value="$PROJECT_DIR$/../api-gateway/src/main/java/com/example/apigateway/APIGatewayController.java" />
+        <option value="$PROJECT_DIR$/../api-gateway/src/main/java/com/example/apigateway/controller/APIGatewayController.java" />
+        <option value="$PROJECT_DIR$/../api-gateway/src/main/java/com/example/apigateway/filter/AccessFilter.java" />
+        <option value="$PROJECT_DIR$/../hello/src/main/java/com/example/hello/controller/HelloController.java" />
+        <option value="$PROJECT_DIR$/../api-gateway/src/main/java/com/example/apigateway/ApiGatewayApplication.java" />
+        <option value="$PROJECT_DIR$/../api-gateway/src/main/java/com/example/apigateway/filter/ThrowExceptionFilter.java" />
+        <option value="$PROJECT_DIR$/../api-gateway/src/main/java/com/example/apigateway/filter/ErrorFilter.java" />
+        <option value="$PROJECT_DIR$/../api-gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/../api-gateway/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/../eureka-server/pom.xml" />
+        <option value="$PROJECT_DIR$/../SpringCloud/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/Software/Maven/apache-maven-3.6.0" />
+        <option name="userSettingsFile" value="D:\Software\Maven\apache-maven-3.6.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="hello" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="ribbon-consumer" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="turbine" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="turbine" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="458" />
+    <option name="y" value="105" />
+    <option name="width" value="1288" />
+    <option name="height" value="685" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <flattenPackages ProjectPane="false" />
+      <hideEmptyPackages ProjectPane="false" />
+      <autoscrollFromSource ProjectPane="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <expand>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="SpringCloud" type="cbb8eebc:String" user="SpringCloud" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="SpringCloud" type="cbb8eebc:String" user="SpringCloud" />
+              <item name="F:\GitRepository\SpringCloud" type="cbb8eebc:String" user="F:\GitRepository\SpringCloud" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="helloserviceapi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringCloud" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SearchEverywhereHistoryKey" value="/actuator&#9;FILE&#9;file://F:/GitRepository/eureka-server/.idea/libraries/Maven__org_springframework_boot_spring_boot_actuator_2_2_4_RELEASE.xml" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../SpringCloud" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.ygb.command" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\GitRepository\SpringCloud" />
+      <recent name="F:\GitRepository\eureka-server" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.hello.service" />
+      <recent name="com.ygb.dto" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\GitRepository\FileSystem\src\main\java\com\example\demo\springboot" />
+      <recent name="F:\GitRepository\hello\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.HelloApplication">
+    <configuration name="MainTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.apigateway.facade.MainTest" />
+      <module name="api-gateway" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.apigateway.facade.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="RibbonConsumerApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.ribbonconsumer.RibbonConsumerApplication" />
+      <module name="ribbon-consumer" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.ribbonconsumer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="TestRestTemplate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.turbine.controller.TestRestTemplate" />
+      <module name="turbine" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.turbine.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="TurbineApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.turbine.TurbineApplication" />
+      <module name="turbine" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.turbine.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="helloserviceapi" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="helloserviceapi" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+    </configuration>
+    <configuration name="ApiGatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="api-gateway" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.apigateway.ApiGatewayApplication" />
+    </configuration>
+    <configuration name="ConfigServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="config-server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.configserver.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.configserver.ConfigServerApplication" />
+    </configuration>
+    <configuration name="DemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.demo.DemoApplication" />
+    </configuration>
+    <configuration name="EurekaServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="eureka-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.eurekaserver.EurekaServerApplication" />
+    </configuration>
+    <configuration name="FeignConsumerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="feign-consumer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.feignconsumer.FeignConsumerApplication" />
+    </configuration>
+    <configuration name="HelloApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="hello" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.hello.HelloApplication" />
+    </configuration>
+    <configuration name="HystrixDashboardApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="hystrix-dashboard" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.hystrixdashboard.HystrixDashboardApplication" />
+    </configuration>
+    <configuration name="RibbonConsumerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="ribbon-consumer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.ribbonconsumer.RibbonConsumerApplication" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.HelloApplication" />
+      <item itemvalue="Spring Boot.FeignConsumerApplication" />
+      <item itemvalue="Spring Boot.EurekaServerApplication" />
+      <item itemvalue="Spring Boot.ApiGatewayApplication" />
+      <item itemvalue="Spring Boot.DemoApplication" />
+      <item itemvalue="Spring Boot.HystrixDashboardApplication" />
+      <item itemvalue="Spring Boot.RibbonConsumerApplication" />
+      <item itemvalue="Application.TestRestTemplate" />
+      <item itemvalue="Application.TurbineApplication" />
+      <item itemvalue="Application.RibbonConsumerApplication" />
+      <item itemvalue="Application.MainTest" />
+      <item itemvalue="Spring Boot.ConfigServerApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.ConfigServerApplication" />
+        <item itemvalue="Application.MainTest" />
+        <item itemvalue="Application.RibbonConsumerApplication" />
+        <item itemvalue="Application.TurbineApplication" />
+        <item itemvalue="Application.TestRestTemplate" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ecc75f4b-05b8-4057-ab3d-af44b738d282" name="Default" comment="" />
+      <created>1581142472037</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581142472037</updated>
+      <workItem from="1581142476694" duration="3047000" />
+      <workItem from="1581145613647" duration="11681000" />
+      <workItem from="1581224321205" duration="16971000" />
+      <workItem from="1581304332061" duration="1004000" />
+      <workItem from="1581306472494" duration="5002000" />
+      <workItem from="1581332159147" duration="2870000" />
+      <workItem from="1581386331574" duration="23988000" />
+      <workItem from="1581496782518" duration="10275000" />
+      <workItem from="1581564422601" duration="11783000" />
+      <workItem from="1581666873183" duration="3408000" />
+      <workItem from="1581751943146" duration="2654000" />
+      <workItem from="1581820960449" duration="9619000" />
+      <workItem from="1581858034727" duration="2890000" />
+      <workItem from="1581937456636" duration="4758000" />
+      <workItem from="1581995952879" duration="3645000" />
+      <workItem from="1582015284718" duration="5279000" />
+      <workItem from="1582082112749" duration="1073000" />
+      <workItem from="1582192027749" duration="11455000" />
+      <workItem from="1582268745037" duration="11488000" />
+      <workItem from="1582332275494" duration="4170000" />
+      <workItem from="1582360357283" duration="378000" />
+      <workItem from="1582366082619" duration="7152000" />
+      <workItem from="1582423805281" duration="11350000" />
+      <workItem from="1582516275180" duration="8835000" />
+      <workItem from="1582691313874" duration="4176000" />
+      <workItem from="1582782606277" duration="12289000" />
+      <workItem from="1582868774677" duration="14157000" />
+      <workItem from="1582943218301" duration="10298000" />
+      <workItem from="1583034137162" duration="21949000" />
+      <workItem from="1583130070742" duration="6621000" />
+      <workItem from="1583224933477" duration="6160000" />
+      <workItem from="1583303216724" duration="1825000" />
+      <workItem from="1583309383112" duration="4084000" />
+      <workItem from="1583390628060" duration="4315000" />
+      <workItem from="1583553450273" duration="3343000" />
+      <workItem from="1583628691944" duration="1205000" />
+      <workItem from="1583805681316" duration="2948000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="268145000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="RestServices" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="3" weight="0.20685959" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="MyBatis Log" order="7" />
+      <window_info anchor="right" id="Word Book" order="3" side_tool="true" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4491726" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="bottom" id="Java Enterprise" order="7" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" weight="0.32978722" />
+      <window_info anchor="right" id="leetcode" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2718676" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.36997637" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25723472" />
+      <window_info anchor="bottom" id="Problems" order="7" />
+      <window_info anchor="right" id="Bean Validation" order="4" />
+      <window_info id="Web" order="2" side_tool="true" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.33333334" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../SpringLearn/src/main/java/algorithm/offer/PrintNumbers.java</url>
+          <line>42</line>
+          <properties />
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <condition expression="i&gt;=1" language="JAVA" />
+          <url>file://$PROJECT_DIR$/../SpringLearn/src/main/java/algorithm/offer/StackAndQueueTest.java</url>
+          <line>23</line>
+          <log-expression expression="System.out.println(&quot;value=&quot;+i)" language="JAVA" />
+          <properties />
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../FileSystem/src/main/java/com/example/demo/springboot/poi/service/POIServiceImpl.java</url>
+          <line>32</line>
+          <properties />
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="22" />
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="breakpointCondition">
+      <expression>
+        <expression-string>i&gt;=1</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>i&gt;100</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>number=={9,9}</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>number=={'9','9','9'}</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>number=11</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="breakpointLogExpression">
+      <expression>
+        <expression-string>System.out.println(&quot;value=&quot;+i)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../SpringCloud/eureka-server/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="40" lean-forward="true" selection-start-line="3" selection-start-column="40" selection-end-line="3" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../SpringCloud/feign-consumer/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="27" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../SpringCloud/feign-consumer/src/main/java/com/example/feignconsumer/FeignConsumerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../SpringCloud/hello/src/main/resources/application-dev.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="16" selection-start-column="16" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../SpringCloud/hello/src/main/java/com/example/hello/HelloApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../SpringCloud/api-gateway/src/main/java/com/example/apigateway/controller/APIGatewayController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="14" column="36" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/org.springframework.web.servlet.DispatcherServlet">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>org.springframework.web.servlet.DispatcherServlet</OriginalElement>
+          <nodes>
+            <node x="0.0" y="0.0">javax.servlet.ServletConfig</node>
+            <node x="182.70512820512823" y="170.0">javax.servlet.http.HttpServlet</node>
+            <node x="590.25" y="425.0">org.springframework.web.servlet.DispatcherServlet</node>
+            <node x="360.0" y="255.0">org.springframework.web.servlet.HttpServletBean</node>
+            <node x="580.7051282051282" y="170.0">org.springframework.context.EnvironmentAware</node>
+            <node x="348.70512820512823" y="170.0">org.springframework.core.env.EnvironmentCapable</node>
+            <node x="171.70512820512823" y="85.0">javax.servlet.GenericServlet</node>
+            <node x="343.0" y="0.0">javax.servlet.Servlet</node>
+            <node x="747.1730769230769" y="85.0">org.springframework.beans.factory.Aware</node>
+            <node x="588.75" y="340.0">org.springframework.web.servlet.FrameworkServlet</node>
+            <node x="799.7051282051282" y="170.0">org.springframework.context.ApplicationContextAware</node>
+            <node x="180.0" y="0.0">java.io.Serializable</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="org.springframework.context.ApplicationContextAware" target="org.springframework.beans.factory.Aware">
+              <point x="0.0" y="-17.5" />
+              <point x="924.2051282051282" y="145.0" />
+              <point x="827.4230769230769" y="145.0" />
+              <point x="26.75" y="17.5" />
+            </edge>
+            <edge source="org.springframework.web.servlet.FrameworkServlet" target="org.springframework.web.servlet.HttpServletBean">
+              <point x="-48.25" y="-17.5" />
+              <point x="637.0" y="315.0" />
+              <point x="450.5" y="315.0" />
+              <point x="0.0" y="17.5" />
+            </edge>
+            <edge source="javax.servlet.GenericServlet" target="java.io.Serializable">
+              <point x="0.0" y="-17.5" />
+              <point x="255.70512820512823" y="60.0" />
+              <point x="251.5" y="60.0" />
+              <point x="0.0" y="17.5" />
+            </edge>
+            <edge source="org.springframework.context.EnvironmentAware" target="org.springframework.beans.factory.Aware">
+              <point x="0.0" y="-17.5" />
+              <point x="680.2051282051282" y="145.0" />
+              <point x="773.9230769230769" y="145.0" />
+              <point x="-26.75" y="17.5" />
+            </edge>
+            <edge source="org.springframework.web.servlet.HttpServletBean" target="org.springframework.context.EnvironmentAware">
+              <point x="60.33333333333337" y="-17.5" />
+              <point x="510.83333333333337" y="230.0" />
+              <point x="680.2051282051282" y="230.0" />
+              <point x="0.0" y="17.5" />
+            </edge>
+            <edge source="javax.servlet.http.HttpServlet" target="javax.servlet.GenericServlet">
+              <point x="0.0" y="-17.5" />
+              <point x="0.0" y="17.5" />
+            </edge>
+            <edge source="org.springframework.web.servlet.HttpServletBean" target="org.springframework.core.env.EnvironmentCapable">
+              <point x="0.0" y="-17.5" />
+              <point x="450.5" y="230.0" />
+              <point x="454.70512820512823" y="230.0" />
+              <point x="0.0" y="17.5" />
+            </edge>
+            <edge source="javax.servlet.GenericServlet" target="javax.servlet.ServletConfig">
+              <point x="-56.0" y="-17.5" />
+              <point x="199.70512820512823" y="60.0" />
+              <point x="80.0" y="60.0" />
+              <point x="0.0" y="17.5" />
+            </edge>
+            <edge source="javax.servlet.GenericServlet" target="javax.servlet.Servlet">
+              <point x="56.0" y="-17.5" />
+              <point x="311.70512820512823" y="60.0" />
+              <point x="399.0" y="60.0" />
+              <point x="0.0" y="17.5" />
+            </edge>
+            <edge source="org.springframework.web.servlet.FrameworkServlet" target="org.springframework.context.ApplicationContextAware">
+              <point x="48.25" y="-17.5" />
+              <point x="733.5" y="315.0" />
+              <point x="924.2051282051282" y="315.0" />
+              <point x="0.0" y="17.5" />
+            </edge>
+            <edge source="org.springframework.web.servlet.HttpServletBean" target="javax.servlet.http.HttpServlet">
+              <point x="-60.33333333333337" y="-17.5" />
+              <point x="390.16666666666663" y="230.0" />
+              <point x="255.70512820512823" y="230.0" />
+              <point x="0.0" y="17.5" />
+            </edge>
+            <edge source="org.springframework.web.servlet.DispatcherServlet" target="org.springframework.web.servlet.FrameworkServlet">
+              <point x="0.0" y="-17.5" />
+              <point x="0.0" y="17.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="60.0" y="79.0" />
+          <SelectedNodes>
+            <node>org.springframework.web.servlet.DispatcherServlet</node>
+          </SelectedNodes>
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.2.3.RELEASE/spring-webmvc-5.2.3.RELEASE.jar!/org/springframework/web/servlet/DispatcherServlet.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="63" column="48" selection-start-line="63" selection-start-column="48" selection-end-line="63" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-zuul/2.2.1.RELEASE/spring-cloud-netflix-zuul-2.2.1.RELEASE.jar!/org/springframework/cloud/netflix/zuul/util/ZuulRuntimeException.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-zuul/2.2.1.RELEASE/spring-cloud-netflix-zuul-2.2.1.RELEASE.jar!/org/springframework/cloud/netflix/zuul/util/RequestContentDataExtractor.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="32" column="19" selection-start-line="32" selection-start-column="19" selection-end-line="32" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-zuul/2.2.1.RELEASE/spring-cloud-netflix-zuul-2.2.1.RELEASE.jar!/org/springframework/cloud/netflix/zuul/util/RequestUtils.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-zuul/2.2.1.RELEASE/spring-cloud-netflix-zuul-2.2.1.RELEASE.jar!/org/springframework/cloud/netflix/zuul/filters/pre/Servlet30WrapperFilter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="45" column="15" selection-start-line="45" selection-start-column="15" selection-end-line="45" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.2.3.RELEASE/spring-web-5.2.3.RELEASE.jar!/org/springframework/http/MediaType.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="35" column="34" selection-start-line="35" selection-start-column="34" selection-end-line="35" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-zuul/2.2.1.RELEASE/spring-cloud-netflix-zuul-2.2.1.RELEASE.jar!/org/springframework/cloud/netflix/zuul/filters/pre/FormBodyWrapperFilter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="67" column="42" selection-start-line="67" selection-start-column="42" selection-end-line="67" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-zuul/2.2.1.RELEASE/spring-cloud-netflix-zuul-2.2.1.RELEASE.jar!/org/springframework/cloud/netflix/zuul/filters/pre/DebugFilter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="625">
+          <caret line="37" column="20" selection-start-line="37" selection-start-column="20" selection-end-line="37" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-zuul/2.2.1.RELEASE/spring-cloud-netflix-zuul-2.2.1.RELEASE.jar!/org/springframework/cloud/netflix/zuul/filters/pre/PreDecorationFilter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="950">
+          <caret line="95" column="62" selection-start-line="95" selection-start-column="62" selection-end-line="101" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/org.apache.http.impl.client.CloseableHttpClient">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>org.apache.http.impl.client.CloseableHttpClient</OriginalElement>
+          <nodes>
+            <node x="" y="">org.apache.http.annotation.Contract</node>
+            <node x="" y="">org.apache.http.impl.client.CloseableHttpClient</node>
+            <node x="" y="">org.apache.http.client.HttpClient</node>
+            <node x="" y="">java.io.Closeable</node>
+            <node x="" y="">java.lang.AutoCloseable</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="226.0" y="103.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-zuul/2.2.1.RELEASE/spring-cloud-netflix-zuul-2.2.1.RELEASE.jar!/org/springframework/cloud/netflix/zuul/filters/route/SendForwardFilter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="35" column="34" lean-forward="true" selection-start-line="35" selection-start-column="34" selection-end-line="35" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-zuul/2.2.1.RELEASE/spring-cloud-netflix-zuul-2.2.1.RELEASE.jar!/org/springframework/cloud/netflix/zuul/filters/post/SendResponseFilter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="327">
+          <caret line="62" column="18" selection-start-line="62" selection-start-column="18" selection-end-line="62" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-zuul/2.2.1.RELEASE/spring-cloud-netflix-zuul-2.2.1.RELEASE.jar!/org/springframework/cloud/netflix/zuul/filters/route/SimpleHostRoutingFilter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="355" column="60" lean-forward="true" selection-start-line="355" selection-start-column="60" selection-end-line="355" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/netflix/zuul/zuul-core/1.3.1/zuul-core-1.3.1.jar!/com/netflix/zuul/context/RequestContext.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="110" column="21" selection-start-line="110" selection-start-column="21" selection-end-line="110" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/9.0.30/tomcat-embed-core-9.0.30.jar!/javax/servlet/ServletResponse.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/9.0.30/tomcat-embed-core-9.0.30.jar!/javax/servlet/http/HttpServletResponse.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="13" column="51" selection-start-line="13" selection-start-column="51" selection-end-line="13" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-zuul/2.2.1.RELEASE/spring-cloud-netflix-zuul-2.2.1.RELEASE.jar!/org/springframework/cloud/netflix/zuul/filters/route/RibbonRoutingFilter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="74" column="37" selection-start-line="74" selection-start-column="37" selection-end-line="74" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../SpringCloud/hello/src/main/java/com/example/hello/controller/HelloController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../SpringCloud/api-gateway/src/main/java/com/example/apigateway/filter/AccessFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/netflix/zuul/zuul-core/1.3.1/zuul-core-1.3.1.jar!/com/netflix/zuul/ZuulFilter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="29" column="40" lean-forward="true" selection-start-line="29" selection-start-column="40" selection-end-line="29" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-zuul/2.2.1.RELEASE/spring-cloud-netflix-zuul-2.2.1.RELEASE.jar!/org/springframework/cloud/netflix/zuul/filters/post/SendErrorFilter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="41" column="25" selection-start-line="41" selection-start-column="25" selection-end-line="41" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-zuul/2.2.1.RELEASE/spring-cloud-netflix-zuul-2.2.1.RELEASE.jar!/org/springframework/cloud/netflix/zuul/filters/pre/ServletDetectionFilter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="725">
+          <caret line="42" column="69" selection-start-line="42" selection-start-column="69" selection-end-line="42" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../SpringCloud/api-gateway/src/main/java/com/example/apigateway/filter/ErrorFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="13" column="23" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../SpringCloud/api-gateway/src/main/java/com/example/apigateway/filter/ThrowExceptionFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="35" column="46" selection-start-line="35" selection-start-column="46" selection-end-line="35" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/netflix/zuul/zuul-core/1.3.1/zuul-core-1.3.1.jar!/com/netflix/zuul/http/ZuulServlet.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1075">
+          <caret line="66" column="25" selection-start-line="66" selection-start-column="25" selection-end-line="66" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/netflix/zuul/zuul-core/1.3.1/zuul-core-1.3.1.jar!/com/netflix/zuul/FilterProcessor.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1475">
+          <caret line="85" column="18" selection-start-line="85" selection-start-column="18" selection-end-line="85" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.1.3.RELEASE/spring-boot-autoconfigure-2.1.3.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/web/servlet/error/BasicErrorController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1575">
+          <caret line="96" column="47" selection-start-line="96" selection-start-column="47" selection-end-line="96" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.1.3.RELEASE/spring-boot-2.1.3.RELEASE.jar!/org/springframework/boot/web/reactive/error/DefaultErrorAttributes.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="23" column="49" lean-forward="true" selection-start-line="23" selection-start-column="49" selection-end-line="23" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.1.3.RELEASE/spring-boot-2.1.3.RELEASE-sources.jar!/org/springframework/boot/web/reactive/error/DefaultErrorAttributes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2425">
+          <caret line="129" column="27" selection-start-line="129" selection-start-column="27" selection-end-line="129" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../config-server/src/test/java/com/example/configserver/ConfigServerApplicationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../config-server/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1425">
+          <caret line="57" column="19" selection-start-line="57" selection-start-column="19" selection-end-line="57" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../config-server/src/main/java/com/example/configserver/ConfigServerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../SpringCloud/hello/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1950">
+          <caret line="78" column="25" selection-start-line="78" selection-start-column="25" selection-end-line="78" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../SpringLearn/src/main/java/util/MyDateTimeUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../SpringCloud/hello/src/main/java/com/example/hello/actuator/health/AllDiskIndicatorImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../SpringCloud/hello/src/main/java/com/example/hello/actuator/health/AllDiskSpaceHealthIndicator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../SpringCloud/api-gateway/src/main/java/com/example/apigateway/ApiGatewayApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../SpringCloud/api-gateway/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="13" column="42" selection-start-line="13" selection-start-column="42" selection-end-line="13" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-starter-netflix-zuul/2.2.1.RELEASE/spring-cloud-starter-netflix-zuul-2.2.1.RELEASE.pom">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3250">
+          <caret line="130" column="49" selection-start-line="130" selection-start-column="49" selection-end-line="130" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../SpringCloud/hello/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../SpringCloud/eureka-server/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="21" column="23" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../SpringCloud/ribbon-consumer/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../SpringCloud/api-gateway/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="740">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../SpringCloud/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>SpringCloud</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: antlr:antlr:2.7.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
